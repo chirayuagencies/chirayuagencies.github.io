@@ -1,0 +1,48 @@
+.brands-section {
+    padding: 60px 20px;
+    background: #f9f9f9;
+    text-align: center;
+  }
+  
+  .brand-slide {
+    width: 250px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background: white;
+    padding: 20px;
+    margin: auto;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+  }
+  
+  .brand-slide img {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    margin-bottom: 15px;
+  }
+  
+  .brand-slide h3 {
+    margin: 5px 0;
+    font-size: 1.1rem;
+    color: #333;
+    text-align: center;
+  }
+  
+  .brand-slide p {
+    margin: 2px 0;
+    font-size: 0.85rem;
+    color: #555;
+    text-align: center;
+  }
+  
+  .swiper-button-next,
+  .swiper-button-prev {
+    color: #333;
+    font-weight: bold;
+  }
+  
