@@ -20,6 +20,8 @@ import ttk from '../assets/brands/ttk.png';
 import vicco from '../assets/brands/vicco.png';
 import vini from '../assets/brands/vini.png';
 import zandu from '../assets/brands/zandu.png';
+import sdm from '../assets/brands/sdm.png';
+import kha from '../assets/brands/kha.png';
 
 const brands = [
   { name: 'Alkacitron', image: alkacitron, areas: 'MP', parties: 'Distributors, Chemists' },
@@ -34,6 +36,8 @@ const brands = [
   { name: 'Vicco', image: vicco, areas: 'MP', parties: 'Retailers, Wholesalers' },
   { name: 'Vini Cosmetics', image: vini, areas: 'MP', parties: 'Wholesalers, Sub Distributors, Retail Chains' },
   { name: 'Emami', image: zandu, areas: 'Indore', parties: 'Chemists, Ayurveda Stores' },
+  { name: 'SDM Ayurveda', image: sdm, areas: 'MP', parties: 'Distributors' },
+  { name: 'Krishna Herbal & Ayurveda', image: kha, areas: 'MP', parties: 'Distributors' },
 ];
 
 
