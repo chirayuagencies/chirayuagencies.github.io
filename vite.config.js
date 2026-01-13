@@ -1,14 +1,22 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
+import { resolve } from 'path';
 
 export default defineConfig({
   plugins: [react()],
   base: './',
   build: {
     rollupOptions: {
+      input: {
+        main: resolve(__dirname, 'index.html'),        // for /
+        verify: resolve(__dirname, 'verify.html'),      // for /verify.html
+      },
       output: {
-        manualChunks: undefined, // Allows better chunking management
+        manualChunks: undefined,
       },
     },
+  },
+  server: {
+    allowedHosts: ['laptop.chirayuagencies.com']
   },
 });

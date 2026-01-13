@@ -1,0 +1,143 @@
+,Town,District,Division,Region,State,Town Type,Transport Name,Party Count
+0,AGRA,,,,,,,5.0
+1,Ajnas,Dewas,Ujjain,Malwa Region,Madhya Pradesh,Municipal Corporation,,1.0
+2,Alirajpur,Alirajpur,Indore,Nimar Region,Madhya Pradesh,Municipality,,3.0
+3,Alot,Ratlam,Ujjain,Malwa Region,Madhya Pradesh,Nagar Parishad,,1.0
+4,Anjad,Barwani,Indore,Nimar Region,Madhya Pradesh,Municipality,,3.0
+5,Aron,Guna,Gwalior,Gwalior-Chambal Region,Madhya Pradesh,Nagar Panchayat,,1.0
+6,Ashta,Sehore,Bhopal,Bhopal Region,Madhya Pradesh,Municipality,,2.0
+7,Badnagar,Ujjain,Ujjain,Malwa Region,Madhya Pradesh,Nagar Palika,,1.0
+8,Badnawar,Dhar,Indore,Malwa Region,Madhya Pradesh,Nagar Panchayat,,2.0
+9,Bagli,Dewas,Ujjain,Malwa Region,Madhya Pradesh,Urban Local Body,,1.0
+10,Bairagarh,Bhopal,Bhopal,Bhopal Region,Madhya Pradesh,Municipal Corporation,,1.0
+11,Balaghat,Balaghat,Jabalpur,Mahakaushal Region,Madhya Pradesh,Municipality,,3.0
+12,Balaghat,Balaghat,Jabalpur,Mahakaushal Region,Madhya Pradesh,,,3.0
+13,Banapura,Narmadapuram,Narmadapuram,Narmadapuram Region,Madhya Pradesh,Nagar Palika,,1.0
+14,Banmore,Morena,Chambal,Gwalior-Chambal Region,Madhya Pradesh,Municipality,,1.0
+15,Barghat,Seoni,Jabalpur,Mahakaushal Region,Madhya Pradesh,,,1.0
+16,Baroda,Sheopur,Chambal,Gwalior-Chambal Region,Madhya Pradesh,Nagar Panchayat,,1.0
+17,Barwaha,Khargone,Indore,Nimar Region,Madhya Pradesh,Municipality,,3.0
+18,Barwani,Barwani,Indore,Nimar Region,Madhya Pradesh,Municipality,,4.0
+19,Bediya,Khargone,Indore,Nimar Region,Madhya Pradesh,Municipality,,2.0
+20,Beohari,Shahdol,Shahdol,Baghelkhand Region,Madhya Pradesh,,,2.0
+21,Betma,Indore,Indore,Malwa Region,Madhya Pradesh,Nagar Panchayat,,1.0
+22,Betul,Betul,Narmadapuram,Narmadapuram Region,Madhya Pradesh,Nagar Palika,,3.0
+23,Bhabhra,Alirajpur,Indore,Nimar Region,Madhya Pradesh,Nagar Panchayat,,1.0
+24,Bhander,Datia,Gwalior,Bundelkhand Region,Madhya Pradesh,Nagar Panchayat,,1.0
+25,Bhind,Bhind,Chambal,Gwalior-Chambal Region,Madhya Pradesh,Municipality,,2.0
+26,Bhopal,Bhopal,Bhopal,Bhopal Region,Madhya Pradesh,Municipal Corporation,,16.0
+27,Biaora,Rajgarh,Bhopal,Bhopal Region,Madhya Pradesh,Municipality,,1.0
+28,Burhanpur,Burhanpur,Indore,Nimar Region,Madhya Pradesh,Municipality,,3.0
+29,Chanera,Khandwa,Indore,Nimar Region,Madhya Pradesh,Municipality,,1.0
+30,Chapda,Dewas,Ujjain,Malwa Region,Madhya Pradesh,Urban Local Body,,2.0
+31,Chhatarpur,Chhatarpur,Sagar,Bundelkhand Region,Madhya Pradesh,,,4.0
+32,Chhindwara,Chhindwara,Jabalpur,Mahakaushal Region,Madhya Pradesh,Municipality,,7.0
+33,Chhindwara,Chhindwara,Jabalpur,Mahakaushal Region,Madhya Pradesh,,,7.0
+34,Dabra,Gwalior,Gwalior,Gwalior-Chambal Region,Madhya Pradesh,Municipality,,1.0
+35,Damoh,Damoh,Sagar,Bundelkhand Region,Madhya Pradesh,,,1.0
+36,Datia,Datia,Gwalior,Bundelkhand Region,Madhya Pradesh,Municipality,,1.0
+37,DELHI,,,,,,,3.0
+38,Deotalab,Mauganj,Rewa,Baghelkhand Region,Madhya Pradesh,Town,,1.0
+39,Dewas,Dewas,Ujjain,Malwa Region,Madhya Pradesh,Municipal Corporation,,3.0
+40,Dhamnod,Dhar,Indore,Malwa Region,Madhya Pradesh,Nagar Panchayat,,1.0
+41,Dhamnod,Ratlam,Ujjain,Malwa Region,Madhya Pradesh,Nagar Parishad,,1.0
+42,Dhar,Dhar,Indore,Malwa Region,Madhya Pradesh,Municipality,,4.0
+43,Dharampuri,Dhar,Indore,Malwa Region,Madhya Pradesh,Municipality,,1.0
+44,Dhargaon,Khargone,Indore,Nimar Region,Madhya Pradesh,Municipality,,2.0
+45,Dindori,Dindori,Jabalpur,Mahakaushal Region,Madhya Pradesh,,,1.0
+46,Ganj Basoda,Vidisha,Bhopal,Bhopal Region,Madhya Pradesh,Municipality,,1.0
+47,Garoth,Mandsaur,Ujjain,Malwa Region,Madhya Pradesh,Nagar Parishad,,1.0
+48,Ghatabillod,Dhar,Indore,Malwa Region,Madhya Pradesh,Municipality,,1.0
+49,Gogawa,Khargone,Indore,Nimar Region,Madhya Pradesh,Census Town,,1.0
+50,Guna,Guna,Gwalior,Gwalior-Chambal Region,Madhya Pradesh,Municipality,,3.0
+51,Gwalior,Gwalior,Gwalior,Gwalior-Chambal Region,Madhya Pradesh,Municipal Corporation,,12.0
+52,Harda,Harda,Narmadapuram,Narmadapuram Region,Madhya Pradesh,Nagar Palika,,4.0
+53,Hatod,Indore,Indore,Malwa Region,Madhya Pradesh,Nagar Panchayat,,1.0
+54,Indergarh,Datia,Gwalior,Bundelkhand Region,Madhya Pradesh,Nagar Panchayat,,1.0
+55,Indore,Indore,Indore,Malwa Region,Madhya Pradesh,Municipal Corporation,,36.0
+56,Itarsi,Narmadapuram,Narmadapuram,Narmadapuram Region,Madhya Pradesh,Nagar Palika,,2.0
+57,Jabalpur,Jabalpur,Jabalpur,Mahakaushal Region,Madhya Pradesh,Municipal Corporation,,13.0
+58,Jaora,Ratlam,Ujjain,Malwa Region,Madhya Pradesh,Nagar Palika,,3.0
+59,Jhabua,Jhabua,Indore,Malwa Region,Madhya Pradesh,Municipality,,2.0
+60,Joura,Morena,Chambal,Gwalior-Chambal Region,Madhya Pradesh,Nagar Panchayat,,1.0
+61,Kalapipal Mandi,Shajapur,Ujjain,Malwa Region,Madhya Pradesh,Municipality,,1.0
+62,Kannod,Dewas,Ujjain,Malwa Region,Madhya Pradesh,Urban Local Body,,1.0
+63,KANPUR,,,,,,,2.0
+64,Kareli,Narsinghpur,Jabalpur,Mahakaushal Region,Madhya Pradesh,,,1.0
+65,Kasrawad,Khargone,Indore,Nimar Region,Madhya Pradesh,Nagar Panchayat,,2.0
+66,Katni,Katni,Jabalpur,Mahakaushal Region,Madhya Pradesh,Municipality,,4.0
+67,Katni,Katni,Jabalpur,Mahakaushal Region,Madhya Pradesh,,,4.0
+68,Khachrod,Ujjain,Ujjain,Malwa Region,Madhya Pradesh,Nagar Palika,,1.0
+69,Khandwa,Khandwa,Indore,Nimar Region,Madhya Pradesh,Municipality,,7.0
+70,Khargone,Khargone,Indore,Nimar Region,Madhya Pradesh,Municipality,,8.0
+71,Khategaon,Dewas,Ujjain,Malwa Region,Madhya Pradesh,Urban Local Body,,3.0
+72,Khetiya,Barwani,Indore,Nimar Region,Madhya Pradesh,Nagar Panchayat,,1.0
+73,Khirkiya,Harda,Narmadapuram,Narmadapuram Region,Madhya Pradesh,Nagar Parishad,,1.0
+74,Kukshi,Dhar,Indore,Malwa Region,Madhya Pradesh,Municipality,,3.0
+75,Maheshwar,Khargone,Indore,Nimar Region,Madhya Pradesh,Nagar Panchayat,,3.0
+76,Mahidpur,Ujjain,Ujjain,Malwa Region,Madhya Pradesh,Nagar Palika,,1.0
+77,Maihar,Maihar,Rewa,Baghelkhand Region,Madhya Pradesh,Nagar Palika,,2.0
+78,Maihar,Satna,Rewa,Baghelkhand Region,Madhya Pradesh,,,2.0
+79,Makdon,Ujjain,Ujjain,Malwa Region,Madhya Pradesh,Nagar Parishad,,1.0
+80,Maksi,Shajapur,Ujjain,Malwa Region,Madhya Pradesh,Nagar Parishad,,2.0
+81,Manasa,Neemuch,Ujjain,Malwa Region,Madhya Pradesh,Nagar Panchayat,,2.0
+82,Manawar,Dhar,Indore,Malwa Region,Madhya Pradesh,Municipality,,1.0
+83,Mandla,Mandla,Jabalpur,Mahakaushal Region,Madhya Pradesh,,,2.0
+84,Mandsaur,Mandsaur,Ujjain,Malwa Region,Madhya Pradesh,Nagar Palika,,3.0
+85,Mangliya,Indore,Indore,Malwa Region,Madhya Pradesh,Municipal Corporation,,1.0
+86,Meghnagar,Jhabua,Indore,Malwa Region,Madhya Pradesh,Nagar Panchayat,,1.0
+87,Mhow,Indore,Indore,Malwa Region,Madhya Pradesh,Cantonment,,2.0
+88,Morena,Morena,Chambal,Gwalior-Chambal Region,Madhya Pradesh,Municipality,,5.0
+89,Nagda,Ujjain,Ujjain,Malwa Region,Madhya Pradesh,Nagar Palika,,2.0
+90,Nalkheda,Agar Malwa,Ujjain,Malwa Region,Madhya Pradesh,Nagar Palika Parishad,,1.0
+91,Narmadapuram,Narmadapuram,Narmadapuram,Narmadapuram Region,Madhya Pradesh,Nagar Palika,,3.0
+92,Narsinghpur,Narsinghpur,Jabalpur,Mahakaushal Region,Madhya Pradesh,,,2.0
+93,Neemuch,Neemuch,Ujjain,Malwa Region,Madhya Pradesh,Municipality,,2.0
+94,Ozhar,Barwani,Indore,Nimar Region,Madhya Pradesh,Nagar Panchayat,,1.0
+95,Pachore,Rajgarh,Bhopal,Bhopal Region,Madhya Pradesh,Nagar Panchayat,,3.0
+96,Panagar,Jabalpur,Jabalpur,Mahakaushal Region,Madhya Pradesh,Municipality,,1.0
+97,Pandhurna,Chhindwara,Jabalpur,Mahakaushal Region,Madhya Pradesh,Municipality,,1.0
+98,Pandhurna,Pandhurna,Jabalpur,Mahakaushal Region,Madhya Pradesh,Municipality,,1.0
+99,Parasia,Chhindwara,Jabalpur,Mahakaushal Region,Madhya Pradesh,Municipality,,1.0
+100,Parasia,Chhindwara,Jabalpur,Mahakaushal Region,Madhya Pradesh,,,1.0
+101,Pipariya,Jabalpur,Jabalpur,Mahakaushal Region,Madhya Pradesh,Census Town,,1.0
+102,Pipariya,Narmadapuram,Narmadapuram,Narmadapuram Region,Madhya Pradesh,Nagar Palika,,1.0
+103,Pipliya Mandi,Mandsaur,Ujjain,Malwa Region,Madhya Pradesh,Nagar Parishad,,1.0
+104,Porsa,Morena,Chambal,Gwalior-Chambal Region,Madhya Pradesh,Municipality,,1.0
+105,RAIPUR,,,,,,,1.0
+106,Raisen,Raisen,Bhopal,Bhopal Region,Madhya Pradesh,Municipality,,1.0
+107,Rajgarh,Rajgarh,Bhopal,Bhopal Region,Madhya Pradesh,Municipality,,1.0
+108,Rajpur,Barwani,Indore,Nimar Region,Madhya Pradesh,Nagar Panchayat,,1.0
+109,Ratlam,Ratlam,Ujjain,Malwa Region,Madhya Pradesh,Municipal Corporation,,6.0
+110,Rewa,Rewa,Rewa,Baghelkhand Region,Madhya Pradesh,,,6.0
+111,Sabalgarh,Morena,Chambal,Gwalior-Chambal Region,Madhya Pradesh,Municipality,,2.0
+112,Sagar,Sagar,Sagar,Bundelkhand Region,Madhya Pradesh,,,6.0
+113,Sanawad,Khargone,Indore,Nimar Region,Madhya Pradesh,Municipality,,2.0
+114,Sanwer,Indore,Indore,Malwa Region,Madhya Pradesh,Nagar Panchayat,,1.0
+115,Sarangpur,Rajgarh,Bhopal,Bhopal Region,Madhya Pradesh,Municipality,,2.0
+116,Satna,Satna,Rewa,Baghelkhand Region,Madhya Pradesh,,,7.0
+117,Sehore,Sehore,Bhopal,Bhopal Region,Madhya Pradesh,Municipality,,2.0
+118,Sendhwa,Barwani,Indore,Nimar Region,Madhya Pradesh,Municipality,,4.0
+119,Seondha,Datia,Gwalior,Bundelkhand Region,Madhya Pradesh,Nagar Panchayat,,1.0
+120,Seoni,Seoni,Jabalpur,Mahakaushal Region,Madhya Pradesh,,,3.0
+121,Shahdol,Shahdol,Shahdol,Baghelkhand Region,Madhya Pradesh,,,3.0
+122,Shahpur,Betul,Narmadapuram,Narmadapuram Region,Madhya Pradesh,Nagar Parishad,,1.0
+123,Shahpur,Burhanpur,Indore,Nimar Region,Madhya Pradesh,Nagar Panchayat,,1.0
+124,Shajapur,Shajapur,Ujjain,Malwa Region,Madhya Pradesh,Municipality,,2.0
+125,Shamgargh,Mandsaur,Ujjain,Malwa Region,Madhya Pradesh,Nagar Parishad,,2.0
+126,Sheopur,Sheopur,Chambal,Gwalior-Chambal Region,Madhya Pradesh,Municipality,,3.0
+127,Shivpuri,Shivpuri,Gwalior,Gwalior-Chambal Region,Madhya Pradesh,Municipality,,1.0
+128,Shujalpur,Shajapur,Ujjain,Malwa Region,Madhya Pradesh,Municipality,,2.0
+129,Sidhi,Sidhi,Rewa,Baghelkhand Region,Madhya Pradesh,,,1.0
+130,Sihora,Jabalpur,Jabalpur,Mahakaushal Region,Madhya Pradesh,Municipality,,1.0
+131,Singrauli,Singrauli,Rewa,Baghelkhand Region,Madhya Pradesh,,,2.0
+132,Sironj,Vidisha,Bhopal,Bhopal Region,Madhya Pradesh,Municipality,,1.0
+133,Sitamau,Mandsaur,Ujjain,Malwa Region,Madhya Pradesh,Nagar Parishad,,1.0
+134,Sonkatch,Dewas,Ujjain,Malwa Region,Madhya Pradesh,Urban Local Body,,1.0
+135,Tarana,Ujjain,Ujjain,Malwa Region,Madhya Pradesh,Nagar Parishad,,1.0
+136,Thandla,Jhabua,Indore,Malwa Region,Madhya Pradesh,Nagar Panchayat,,1.0
+137,Tikamgarh,Tikamgarh,Sagar,Bundelkhand Region,Madhya Pradesh,,,2.0
+138,Timarni,Harda,Narmadapuram,Narmadapuram Region,Madhya Pradesh,Nagar Parishad,,1.0
+139,Ujjain,Ujjain,Ujjain,Malwa Region,Madhya Pradesh,Municipal Corporation,,12.0
+140,Vidisha,Vidisha,Bhopal,Bhopal Region,Madhya Pradesh,Municipality,,1.0
+141,Mumbai,Mumbai,Mumbai,Mumbai,Maharashtra,Metropolitan,,5.0

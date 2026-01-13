@@ -26,7 +26,6 @@ const brands = [
   { name: 'Amrutanjan', image: amrutanjan, areas: 'MP', parties: 'Distributors, Chemists, PCD' },
   { name: 'Dollar Company', image: dollar, areas: 'MP', parties: 'Distributors' },
   { name: 'Deoleo', image: figaro, areas: 'Malwa', parties: 'Distributors, Supermarkets, Chemists' },
-  { name: 'Girnar Ayurvedic', image: girnar, areas: 'MP', parties: 'Distributors' },
   { name: 'Hamdard', image: hamdard, areas: 'Indore', parties: 'Chemists, Ayurveda' },
   { name: 'Kimberly Clark', image: huggies, areas: 'Malwa Nimar', parties: 'Distributors' },
   { name: 'MidasCare', image: midas, areas: 'Indore', parties: 'Retailers' },
@@ -40,8 +39,8 @@ const brands = [
 
 const Brands = () => {
   return (
-    <section id="brands" className="py-12 px-4 bg-gray-50">
-      <h2 className="text-2xl font-bold mb-6 text-center">Brands We Represent</h2>
+    <section id="brands" className="min-h-screen py-12 px-4 bg-gray-50">
+      <h1 className="text-4xl font-bold mb-6 text-center">Brands We Represent</h1>
       
       <div className="max-w-7xl mx-auto">
         <Swiper

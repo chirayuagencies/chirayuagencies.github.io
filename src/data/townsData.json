@@ -1,0 +1,1510 @@
+{
+  "towns": [
+    {
+      "name": "Indore",
+      "district": "Indore",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 36,
+      "coordinates": [
+        75.8573,
+        22.7196
+      ]
+    },
+    {
+      "name": "Bhopal",
+      "district": "Bhopal",
+      "state": "Madhya Pradesh",
+      "region": "Bhopal Region",
+      "partyCount": 16,
+      "coordinates": [
+        77.4126,
+        23.2599
+      ]
+    },
+    {
+      "name": "Chhindwara",
+      "district": "Chhindwara",
+      "state": "Madhya Pradesh",
+      "region": "Mahakaushal Region",
+      "partyCount": 14,
+      "coordinates": [
+        78.93,
+        22.06
+      ]
+    },
+    {
+      "name": "Jabalpur",
+      "district": "Jabalpur",
+      "state": "Madhya Pradesh",
+      "region": "Mahakaushal Region",
+      "partyCount": 13,
+      "coordinates": [
+        79.95,
+        23.1815
+      ]
+    },
+    {
+      "name": "Gwalior",
+      "district": "Gwalior",
+      "state": "Madhya Pradesh",
+      "region": "Gwalior-Chambal Region",
+      "partyCount": 12,
+      "coordinates": [
+        78.1828,
+        26.2183
+      ]
+    },
+    {
+      "name": "Ujjain",
+      "district": "Ujjain",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 12,
+      "coordinates": [
+        75.7849,
+        23.1765
+      ]
+    },
+    {
+      "name": "Katni",
+      "district": "Katni",
+      "state": "Madhya Pradesh",
+      "region": "Mahakaushal Region",
+      "partyCount": 8,
+      "coordinates": [
+        80.4,
+        23.84
+      ]
+    },
+    {
+      "name": "Khargone",
+      "district": "Khargone",
+      "state": "Madhya Pradesh",
+      "region": "Nimar Region",
+      "partyCount": 8,
+      "coordinates": [
+        75.61,
+        21.82
+      ]
+    },
+    {
+      "name": "Khandwa",
+      "district": "Khandwa",
+      "state": "Madhya Pradesh",
+      "region": "Nimar Region",
+      "partyCount": 7,
+      "coordinates": [
+        76.3333,
+        21.75
+      ]
+    },
+    {
+      "name": "Satna",
+      "district": "Satna",
+      "state": "Madhya Pradesh",
+      "region": "Baghelkhand Region",
+      "partyCount": 7,
+      "coordinates": [
+        80.83,
+        24.58
+      ]
+    },
+    {
+      "name": "Balaghat",
+      "district": "Balaghat",
+      "state": "Madhya Pradesh",
+      "region": "Mahakaushal Region",
+      "partyCount": 6,
+      "coordinates": [
+        80.18,
+        21.8
+      ]
+    },
+    {
+      "name": "Ratlam",
+      "district": "Ratlam",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 6,
+      "coordinates": [
+        75.0364,
+        23.3315
+      ]
+    },
+    {
+      "name": "Rewa",
+      "district": "Rewa",
+      "state": "Madhya Pradesh",
+      "region": "Baghelkhand Region",
+      "partyCount": 6,
+      "coordinates": [
+        81.3,
+        24.53
+      ]
+    },
+    {
+      "name": "Sagar",
+      "district": "Sagar",
+      "state": "Madhya Pradesh",
+      "region": "Bundelkhand Region",
+      "partyCount": 6,
+      "coordinates": [
+        78.75,
+        23.84
+      ]
+    },
+    {
+      "name": "AGRA",
+      "district": "",
+      "state": "",
+      "region": "",
+      "partyCount": 5,
+      "coordinates": [
+        78.0081,
+        27.1767
+      ]
+    },
+    {
+      "name": "Morena",
+      "district": "Morena",
+      "state": "Madhya Pradesh",
+      "region": "Gwalior-Chambal Region",
+      "partyCount": 5,
+      "coordinates": [
+        78,
+        26.5
+      ]
+    },
+    {
+      "name": "Barwani",
+      "district": "Barwani",
+      "state": "Madhya Pradesh",
+      "region": "Nimar Region",
+      "partyCount": 4,
+      "coordinates": [
+        74.9,
+        22.03
+      ]
+    },
+    {
+      "name": "Chhatarpur",
+      "district": "Chhatarpur",
+      "state": "Madhya Pradesh",
+      "region": "Bundelkhand Region",
+      "partyCount": 4,
+      "coordinates": [
+        79.6,
+        24.92
+      ]
+    },
+    {
+      "name": "Dhar",
+      "district": "Dhar",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 4,
+      "coordinates": [
+        75.3,
+        22.6
+      ]
+    },
+    {
+      "name": "Harda",
+      "district": "Harda",
+      "state": "Madhya Pradesh",
+      "region": "Narmadapuram Region",
+      "partyCount": 4,
+      "coordinates": [
+        77.1,
+        22.34
+      ]
+    },
+    {
+      "name": "Sendhwa",
+      "district": "Barwani",
+      "state": "Madhya Pradesh",
+      "region": "Nimar Region",
+      "partyCount": 4,
+      "coordinates": [
+        75.08,
+        21.68
+      ]
+    },
+    {
+      "name": "Alirajpur",
+      "district": "Alirajpur",
+      "state": "Madhya Pradesh",
+      "region": "Nimar Region",
+      "partyCount": 3,
+      "coordinates": [
+        74.36,
+        22.31
+      ]
+    },
+    {
+      "name": "Anjad",
+      "district": "Barwani",
+      "state": "Madhya Pradesh",
+      "region": "Nimar Region",
+      "partyCount": 3,
+      "coordinates": [
+        74.9,
+        22.03
+      ]
+    },
+    {
+      "name": "Barwaha",
+      "district": "Khargone",
+      "state": "Madhya Pradesh",
+      "region": "Nimar Region",
+      "partyCount": 3,
+      "coordinates": [
+        75.61,
+        21.82
+      ]
+    },
+    {
+      "name": "Betul",
+      "district": "Betul",
+      "state": "Madhya Pradesh",
+      "region": "Narmadapuram Region",
+      "partyCount": 3,
+      "coordinates": [
+        77.9,
+        21.91
+      ]
+    },
+    {
+      "name": "Burhanpur",
+      "district": "Burhanpur",
+      "state": "Madhya Pradesh",
+      "region": "Nimar Region",
+      "partyCount": 3,
+      "coordinates": [
+        76.23,
+        21.31
+      ]
+    },
+    {
+      "name": "DELHI",
+      "district": "",
+      "state": "",
+      "region": "",
+      "partyCount": 3,
+      "coordinates": [
+        77.209,
+        28.6139
+      ]
+    },
+    {
+      "name": "Dewas",
+      "district": "Dewas",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 3,
+      "coordinates": [
+        76.0661,
+        22.9631
+      ]
+    },
+    {
+      "name": "Guna",
+      "district": "Guna",
+      "state": "Madhya Pradesh",
+      "region": "Gwalior-Chambal Region",
+      "partyCount": 3,
+      "coordinates": [
+        77.32,
+        24.65
+      ]
+    },
+    {
+      "name": "Jaora",
+      "district": "Ratlam",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 3,
+      "coordinates": [
+        75.0364,
+        23.3315
+      ]
+    },
+    {
+      "name": "Khategaon",
+      "district": "Dewas",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 3,
+      "coordinates": [
+        76.0661,
+        22.9631
+      ]
+    },
+    {
+      "name": "Kukshi",
+      "district": "Dhar",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 3,
+      "coordinates": [
+        75.3,
+        22.6
+      ]
+    },
+    {
+      "name": "Maheshwar",
+      "district": "Khargone",
+      "state": "Madhya Pradesh",
+      "region": "Nimar Region",
+      "partyCount": 3,
+      "coordinates": [
+        75.61,
+        21.82
+      ]
+    },
+    {
+      "name": "Mandsaur",
+      "district": "Mandsaur",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 3,
+      "coordinates": [
+        75.07,
+        24.07
+      ]
+    },
+    {
+      "name": "Narmadapuram",
+      "district": "Narmadapuram",
+      "state": "Madhya Pradesh",
+      "region": "Narmadapuram Region",
+      "partyCount": 3,
+      "coordinates": [
+        77.75,
+        22.75
+      ]
+    },
+    {
+      "name": "Pachore",
+      "district": "Rajgarh",
+      "state": "Madhya Pradesh",
+      "region": "Bhopal Region",
+      "partyCount": 3,
+      "coordinates": [
+        76.62,
+        24.01
+      ]
+    },
+    {
+      "name": "Seoni",
+      "district": "Seoni",
+      "state": "Madhya Pradesh",
+      "region": "Mahakaushal Region",
+      "partyCount": 3,
+      "coordinates": [
+        79.55,
+        22.08
+      ]
+    },
+    {
+      "name": "Shahdol",
+      "district": "Shahdol",
+      "state": "Madhya Pradesh",
+      "region": "Baghelkhand Region",
+      "partyCount": 3,
+      "coordinates": [
+        81.36,
+        23.3
+      ]
+    },
+    {
+      "name": "Sheopur",
+      "district": "Sheopur",
+      "state": "Madhya Pradesh",
+      "region": "Gwalior-Chambal Region",
+      "partyCount": 3,
+      "coordinates": [
+        77.7,
+        25.67
+      ]
+    },
+    {
+      "name": "Ashta",
+      "district": "Sehore",
+      "state": "Madhya Pradesh",
+      "region": "Bhopal Region",
+      "partyCount": 2,
+      "coordinates": [
+        77.08,
+        23.2
+      ]
+    },
+    {
+      "name": "Badnawar",
+      "district": "Dhar",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 2,
+      "coordinates": [
+        75.3,
+        22.6
+      ]
+    },
+    {
+      "name": "Bediya",
+      "district": "Khargone",
+      "state": "Madhya Pradesh",
+      "region": "Nimar Region",
+      "partyCount": 2,
+      "coordinates": [
+        75.61,
+        21.82
+      ]
+    },
+    {
+      "name": "Beohari",
+      "district": "Shahdol",
+      "state": "Madhya Pradesh",
+      "region": "Baghelkhand Region",
+      "partyCount": 2,
+      "coordinates": [
+        81.36,
+        23.3
+      ]
+    },
+    {
+      "name": "Bhind",
+      "district": "Bhind",
+      "state": "Madhya Pradesh",
+      "region": "Gwalior-Chambal Region",
+      "partyCount": 2,
+      "coordinates": [
+        78.78,
+        26.56
+      ]
+    },
+    {
+      "name": "Chapda",
+      "district": "Dewas",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 2,
+      "coordinates": [
+        76.0661,
+        22.9631
+      ]
+    },
+    {
+      "name": "Dhargaon",
+      "district": "Khargone",
+      "state": "Madhya Pradesh",
+      "region": "Nimar Region",
+      "partyCount": 2,
+      "coordinates": [
+        75.61,
+        21.82
+      ]
+    },
+    {
+      "name": "Itarsi",
+      "district": "Narmadapuram",
+      "state": "Madhya Pradesh",
+      "region": "Narmadapuram Region",
+      "partyCount": 2,
+      "coordinates": [
+        77.75,
+        22.75
+      ]
+    },
+    {
+      "name": "Jhabua",
+      "district": "Jhabua",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 2,
+      "coordinates": [
+        74.59,
+        22.77
+      ]
+    },
+    {
+      "name": "KANPUR",
+      "district": "",
+      "state": "",
+      "region": "",
+      "partyCount": 2,
+      "coordinates": [
+        80.3319,
+        26.4499
+      ]
+    },
+    {
+      "name": "Kasrawad",
+      "district": "Khargone",
+      "state": "Madhya Pradesh",
+      "region": "Nimar Region",
+      "partyCount": 2,
+      "coordinates": [
+        75.61,
+        21.82
+      ]
+    },
+    {
+      "name": "Maihar",
+      "district": "Maihar",
+      "state": "Madhya Pradesh",
+      "region": "Baghelkhand Region",
+      "partyCount": 2,
+      "coordinates": [80.75, 24.25]
+    },
+    {
+      "name": "Maihar",
+      "district": "Satna",
+      "state": "Madhya Pradesh",
+      "region": "Baghelkhand Region",
+      "partyCount": 2,
+      "coordinates": [
+        80.83,
+        24.58
+      ]
+    },
+    {
+      "name": "Maksi",
+      "district": "Shajapur",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 2,
+      "coordinates": [
+        76.26,
+        23.43
+      ]
+    },
+    {
+      "name": "Manasa",
+      "district": "Neemuch",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 2,
+      "coordinates": [
+        74.87,
+        24.47
+      ]
+    },
+    {
+      "name": "Mandla",
+      "district": "Mandla",
+      "state": "Madhya Pradesh",
+      "region": "Mahakaushal Region",
+      "partyCount": 2,
+      "coordinates": [
+        80.37,
+        22.6
+      ]
+    },
+    {
+      "name": "Mhow",
+      "district": "Indore",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 2,
+      "coordinates": [
+        75.8573,
+        22.7196
+      ]
+    },
+    {
+      "name": "Nagda",
+      "district": "Ujjain",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 2,
+      "coordinates": [
+        75.7849,
+        23.1765
+      ]
+    },
+    {
+      "name": "Narsinghpur",
+      "district": "Narsinghpur",
+      "state": "Madhya Pradesh",
+      "region": "Mahakaushal Region",
+      "partyCount": 2,
+      "coordinates": [
+        79.12,
+        22.95
+      ]
+    },
+    {
+      "name": "Neemuch",
+      "district": "Neemuch",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 2,
+      "coordinates": [
+        74.87,
+        24.47
+      ]
+    },
+    {
+      "name": "Parasia",
+      "district": "Chhindwara",
+      "state": "Madhya Pradesh",
+      "region": "Mahakaushal Region",
+      "partyCount": 2,
+      "coordinates": [
+        78.93,
+        22.06
+      ]
+    },
+    {
+      "name": "Sabalgarh",
+      "district": "Morena",
+      "state": "Madhya Pradesh",
+      "region": "Gwalior-Chambal Region",
+      "partyCount": 2,
+      "coordinates": [
+        78,
+        26.5
+      ]
+    },
+    {
+      "name": "Sanawad",
+      "district": "Khargone",
+      "state": "Madhya Pradesh",
+      "region": "Nimar Region",
+      "partyCount": 2,
+      "coordinates": [
+        75.61,
+        21.82
+      ]
+    },
+    {
+      "name": "Sarangpur",
+      "district": "Rajgarh",
+      "state": "Madhya Pradesh",
+      "region": "Bhopal Region",
+      "partyCount": 2,
+      "coordinates": [
+        76.62,
+        24.01
+      ]
+    },
+    {
+      "name": "Sehore",
+      "district": "Sehore",
+      "state": "Madhya Pradesh",
+      "region": "Bhopal Region",
+      "partyCount": 2,
+      "coordinates": [
+        77.08,
+        23.2
+      ]
+    },
+    {
+      "name": "Shajapur",
+      "district": "Shajapur",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 2,
+      "coordinates": [
+        76.26,
+        23.43
+      ]
+    },
+    {
+      "name": "Shamgargh",
+      "district": "Mandsaur",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 2,
+      "coordinates": [
+        75.07,
+        24.07
+      ]
+    },
+    {
+      "name": "Shujalpur",
+      "district": "Shajapur",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 2,
+      "coordinates": [
+        76.26,
+        23.43
+      ]
+    },
+    {
+      "name": "Singrauli",
+      "district": "Singrauli",
+      "state": "Madhya Pradesh",
+      "region": "Baghelkhand Region",
+      "partyCount": 2,
+      "coordinates": [
+        82.66,
+        24.2
+      ]
+    },
+    {
+      "name": "Tikamgarh",
+      "district": "Tikamgarh",
+      "state": "Madhya Pradesh",
+      "region": "Bundelkhand Region",
+      "partyCount": 2,
+      "coordinates": [
+        78.83,
+        24.75
+      ]
+    },
+    {
+      "name": "Mumbai",
+      "district": "Mumbai",
+      "state": "Maharashtra",
+      "region": "Mumbai",
+      "partyCount": 2,
+      "coordinates": [
+        72.8777,
+        19.076
+      ]
+    },
+    {
+      "name": "Ajnas",
+      "district": "Dewas",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        76.0661,
+        22.9631
+      ]
+    },
+    {
+      "name": "Alot",
+      "district": "Ratlam",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        75.0364,
+        23.3315
+      ]
+    },
+    {
+      "name": "Aron",
+      "district": "Guna",
+      "state": "Madhya Pradesh",
+      "region": "Gwalior-Chambal Region",
+      "partyCount": 1,
+      "coordinates": [
+        77.32,
+        24.65
+      ]
+    },
+    {
+      "name": "Badnagar",
+      "district": "Ujjain",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        75.7849,
+        23.1765
+      ]
+    },
+    {
+      "name": "Bagli",
+      "district": "Dewas",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        76.0661,
+        22.9631
+      ]
+    },
+    {
+      "name": "Bairagarh",
+      "district": "Bhopal",
+      "state": "Madhya Pradesh",
+      "region": "Bhopal Region",
+      "partyCount": 1,
+      "coordinates": [
+        77.4126,
+        23.2599
+      ]
+    },
+    {
+      "name": "Banapura",
+      "district": "Narmadapuram",
+      "state": "Madhya Pradesh",
+      "region": "Narmadapuram Region",
+      "partyCount": 1,
+      "coordinates": [
+        77.75,
+        22.75
+      ]
+    },
+    {
+      "name": "Banmore",
+      "district": "Morena",
+      "state": "Madhya Pradesh",
+      "region": "Gwalior-Chambal Region",
+      "partyCount": 1,
+      "coordinates": [
+        78,
+        26.5
+      ]
+    },
+    {
+      "name": "Barghat",
+      "district": "Seoni",
+      "state": "Madhya Pradesh",
+      "region": "Mahakaushal Region",
+      "partyCount": 1,
+      "coordinates": [
+        79.55,
+        22.08
+      ]
+    },
+    {
+      "name": "Baroda",
+      "district": "Sheopur",
+      "state": "Madhya Pradesh",
+      "region": "Gwalior-Chambal Region",
+      "partyCount": 1,
+      "coordinates": [
+        77.7,
+        25.67
+      ]
+    },
+    {
+      "name": "Betma",
+      "district": "Indore",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        75.8573,
+        22.7196
+      ]
+    },
+    {
+      "name": "Bhabhra",
+      "district": "Alirajpur",
+      "state": "Madhya Pradesh",
+      "region": "Nimar Region",
+      "partyCount": 1,
+      "coordinates": [
+        74.36,
+        22.31
+      ]
+    },
+    {
+      "name": "Bhander",
+      "district": "Datia",
+      "state": "Madhya Pradesh",
+      "region": "Bundelkhand Region",
+      "partyCount": 1,
+      "coordinates": [
+        78.46,
+        25.67
+      ]
+    },
+    {
+      "name": "Biaora",
+      "district": "Rajgarh",
+      "state": "Madhya Pradesh",
+      "region": "Bhopal Region",
+      "partyCount": 1,
+      "coordinates": [
+        76.62,
+        24.01
+      ]
+    },
+    {
+      "name": "Chanera",
+      "district": "Khandwa",
+      "state": "Madhya Pradesh",
+      "region": "Nimar Region",
+      "partyCount": 1,
+      "coordinates": [
+        76.3333,
+        21.75
+      ]
+    },
+    {
+      "name": "Dabra",
+      "district": "Gwalior",
+      "state": "Madhya Pradesh",
+      "region": "Gwalior-Chambal Region",
+      "partyCount": 1,
+      "coordinates": [
+        78.1828,
+        26.2183
+      ]
+    },
+    {
+      "name": "Damoh",
+      "district": "Damoh",
+      "state": "Madhya Pradesh",
+      "region": "Bundelkhand Region",
+      "partyCount": 1,
+      "coordinates": [
+        79.44,
+        23.84
+      ]
+    },
+    {
+      "name": "Datia",
+      "district": "Datia",
+      "state": "Madhya Pradesh",
+      "region": "Bundelkhand Region",
+      "partyCount": 1,
+      "coordinates": [
+        78.46,
+        25.67
+      ]
+    },
+    {
+      "name": "Deotalab",
+      "district": "Mauganj",
+      "state": "Madhya Pradesh",
+      "region": "Baghelkhand Region",
+      "partyCount": 1,
+      "coordinates": [81.5, 24.0]
+    },
+    {
+      "name": "Dhamnod",
+      "district": "Dhar",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        75.3,
+        22.6
+      ]
+    },
+    {
+      "name": "Dhamnod",
+      "district": "Ratlam",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        75.0364,
+        23.3315
+      ]
+    },
+    {
+      "name": "Dharampuri",
+      "district": "Dhar",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        75.3,
+        22.6
+      ]
+    },
+    {
+      "name": "Dindori",
+      "district": "Dindori",
+      "state": "Madhya Pradesh",
+      "region": "Mahakaushal Region",
+      "partyCount": 1,
+      "coordinates": [
+        81.08,
+        22.95
+      ]
+    },
+    {
+      "name": "Ganj Basoda",
+      "district": "Vidisha",
+      "state": "Madhya Pradesh",
+      "region": "Bhopal Region",
+      "partyCount": 1,
+      "coordinates": [
+        77.81,
+        23.53
+      ]
+    },
+    {
+      "name": "Garoth",
+      "district": "Mandsaur",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        75.07,
+        24.07
+      ]
+    },
+    {
+      "name": "Ghatabillod",
+      "district": "Dhar",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        75.3,
+        22.6
+      ]
+    },
+    {
+      "name": "Gogawa",
+      "district": "Khargone",
+      "state": "Madhya Pradesh",
+      "region": "Nimar Region",
+      "partyCount": 1,
+      "coordinates": [
+        75.61,
+        21.82
+      ]
+    },
+    {
+      "name": "Hatod",
+      "district": "Indore",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        75.8573,
+        22.7196
+      ]
+    },
+    {
+      "name": "Indergarh",
+      "district": "Datia",
+      "state": "Madhya Pradesh",
+      "region": "Bundelkhand Region",
+      "partyCount": 1,
+      "coordinates": [
+        78.46,
+        25.67
+      ]
+    },
+    {
+      "name": "Joura",
+      "district": "Morena",
+      "state": "Madhya Pradesh",
+      "region": "Gwalior-Chambal Region",
+      "partyCount": 1,
+      "coordinates": [
+        78,
+        26.5
+      ]
+    },
+    {
+      "name": "Kalapipal Mandi",
+      "district": "Shajapur",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        76.26,
+        23.43
+      ]
+    },
+    {
+      "name": "Kannod",
+      "district": "Dewas",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        76.0661,
+        22.9631
+      ]
+    },
+    {
+      "name": "Kareli",
+      "district": "Narsinghpur",
+      "state": "Madhya Pradesh",
+      "region": "Mahakaushal Region",
+      "partyCount": 1,
+      "coordinates": [
+        79.12,
+        22.95
+      ]
+    },
+    {
+      "name": "Khachrod",
+      "district": "Ujjain",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        75.7849,
+        23.1765
+      ]
+    },
+    {
+      "name": "Khetiya",
+      "district": "Barwani",
+      "state": "Madhya Pradesh",
+      "region": "Nimar Region",
+      "partyCount": 1,
+      "coordinates": [
+        74.9,
+        22.03
+      ]
+    },
+    {
+      "name": "Khirkiya",
+      "district": "Harda",
+      "state": "Madhya Pradesh",
+      "region": "Narmadapuram Region",
+      "partyCount": 1,
+      "coordinates": [
+        77.1,
+        22.34
+      ]
+    },
+    {
+      "name": "Mahidpur",
+      "district": "Ujjain",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        75.7849,
+        23.1765
+      ]
+    },
+    {
+      "name": "Makdon",
+      "district": "Ujjain",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        75.7849,
+        23.1765
+      ]
+    },
+    {
+      "name": "Manawar",
+      "district": "Dhar",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        75.3,
+        22.6
+      ]
+    },
+    {
+      "name": "Mangliya",
+      "district": "Indore",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        75.8573,
+        22.7196
+      ]
+    },
+    {
+      "name": "Meghnagar",
+      "district": "Jhabua",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        74.59,
+        22.77
+      ]
+    },
+    {
+      "name": "Nalkheda",
+      "district": "Agar Malwa",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [76.0, 23.5]
+    },
+    {
+      "name": "Ozhar",
+      "district": "Barwani",
+      "state": "Madhya Pradesh",
+      "region": "Nimar Region",
+      "partyCount": 1,
+      "coordinates": [
+        74.9,
+        22.03
+      ]
+    },
+    {
+      "name": "Panagar",
+      "district": "Jabalpur",
+      "state": "Madhya Pradesh",
+      "region": "Mahakaushal Region",
+      "partyCount": 1,
+      "coordinates": [
+        79.95,
+        23.1815
+      ]
+    },
+    {
+      "name": "Pandhurna",
+      "district": "Chhindwara",
+      "state": "Madhya Pradesh",
+      "region": "Mahakaushal Region",
+      "partyCount": 1,
+      "coordinates": [
+        78.93,
+        22.06
+      ]
+    },
+    {
+      "name": "Pandhurna",
+      "district": "Pandhurna",
+      "state": "Madhya Pradesh",
+      "region": "Mahakaushal Region",
+      "partyCount": 1,
+      "coordinates": [78.93, 22.06]
+    },
+    {
+      "name": "Pipariya",
+      "district": "Jabalpur",
+      "state": "Madhya Pradesh",
+      "region": "Mahakaushal Region",
+      "partyCount": 1,
+      "coordinates": [
+        79.95,
+        23.1815
+      ]
+    },
+    {
+      "name": "Pipariya",
+      "district": "Narmadapuram",
+      "state": "Madhya Pradesh",
+      "region": "Narmadapuram Region",
+      "partyCount": 1,
+      "coordinates": [
+        77.75,
+        22.75
+      ]
+    },
+    {
+      "name": "Pipliya Mandi",
+      "district": "Mandsaur",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        75.07,
+        24.07
+      ]
+    },
+    {
+      "name": "Porsa",
+      "district": "Morena",
+      "state": "Madhya Pradesh",
+      "region": "Gwalior-Chambal Region",
+      "partyCount": 1,
+      "coordinates": [
+        78,
+        26.5
+      ]
+    },
+    {
+      "name": "RAIPUR",
+      "district": "",
+      "state": "",
+      "region": "",
+      "partyCount": 1,
+      "coordinates": [
+        81.6296,
+        21.2514
+      ]
+    },
+    {
+      "name": "Raisen",
+      "district": "Raisen",
+      "state": "Madhya Pradesh",
+      "region": "Bhopal Region",
+      "partyCount": 1,
+      "coordinates": [
+        77.79,
+        23.33
+      ]
+    },
+    {
+      "name": "Rajgarh",
+      "district": "Rajgarh",
+      "state": "Madhya Pradesh",
+      "region": "Bhopal Region",
+      "partyCount": 1,
+      "coordinates": [
+        76.62,
+        24.01
+      ]
+    },
+    {
+      "name": "Rajpur",
+      "district": "Barwani",
+      "state": "Madhya Pradesh",
+      "region": "Nimar Region",
+      "partyCount": 1,
+      "coordinates": [
+        74.9,
+        22.03
+      ]
+    },
+    {
+      "name": "Sanwer",
+      "district": "Indore",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        75.8573,
+        22.7196
+      ]
+    },
+    {
+      "name": "Seondha",
+      "district": "Datia",
+      "state": "Madhya Pradesh",
+      "region": "Bundelkhand Region",
+      "partyCount": 1,
+      "coordinates": [
+        78.46,
+        25.67
+      ]
+    },
+    {
+      "name": "Shahpur",
+      "district": "Betul",
+      "state": "Madhya Pradesh",
+      "region": "Narmadapuram Region",
+      "partyCount": 1,
+      "coordinates": [
+        77.9,
+        21.91
+      ]
+    },
+    {
+      "name": "Shahpur",
+      "district": "Burhanpur",
+      "state": "Madhya Pradesh",
+      "region": "Nimar Region",
+      "partyCount": 1,
+      "coordinates": [
+        76.23,
+        21.31
+      ]
+    },
+    {
+      "name": "Shivpuri",
+      "district": "Shivpuri",
+      "state": "Madhya Pradesh",
+      "region": "Gwalior-Chambal Region",
+      "partyCount": 1,
+      "coordinates": [
+        77.65,
+        25.43
+      ]
+    },
+    {
+      "name": "Sidhi",
+      "district": "Sidhi",
+      "state": "Madhya Pradesh",
+      "region": "Baghelkhand Region",
+      "partyCount": 1,
+      "coordinates": [
+        81.88,
+        24.42
+      ]
+    },
+    {
+      "name": "Sihora",
+      "district": "Jabalpur",
+      "state": "Madhya Pradesh",
+      "region": "Mahakaushal Region",
+      "partyCount": 1,
+      "coordinates": [
+        79.95,
+        23.1815
+      ]
+    },
+    {
+      "name": "Sironj",
+      "district": "Vidisha",
+      "state": "Madhya Pradesh",
+      "region": "Bhopal Region",
+      "partyCount": 1,
+      "coordinates": [
+        77.81,
+        23.53
+      ]
+    },
+    {
+      "name": "Sitamau",
+      "district": "Mandsaur",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        75.07,
+        24.07
+      ]
+    },
+    {
+      "name": "Sonkatch",
+      "district": "Dewas",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        76.0661,
+        22.9631
+      ]
+    },
+    {
+      "name": "Tarana",
+      "district": "Ujjain",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        75.7849,
+        23.1765
+      ]
+    },
+    {
+      "name": "Thandla",
+      "district": "Jhabua",
+      "state": "Madhya Pradesh",
+      "region": "Malwa Region",
+      "partyCount": 1,
+      "coordinates": [
+        74.59,
+        22.77
+      ]
+    },
+    {
+      "name": "Timarni",
+      "district": "Harda",
+      "state": "Madhya Pradesh",
+      "region": "Narmadapuram Region",
+      "partyCount": 1,
+      "coordinates": [
+        77.1,
+        22.34
+      ]
+    },
+    {
+      "name": "Vidisha",
+      "district": "Vidisha",
+      "state": "Madhya Pradesh",
+      "region": "Bhopal Region",
+      "partyCount": 1,
+      "coordinates": [
+        77.81,
+        23.53
+      ]
+    }
+  ]
+}

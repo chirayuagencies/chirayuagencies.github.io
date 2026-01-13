@@ -19,7 +19,15 @@ const Hero = () => {
       </div> */}
       <div className="hero-overlay flex flex-col justify-center items-center text-center px-4 sm:px-8 md:px-16 py-12">
         <h1 className="text-white text-3xl sm:text-5xl font-bold mb-4">Welcome to Chirayu Agencies</h1>
-        <p className="text-white text-base sm:text-lg max-w-xl">Delivering trusted brands with efficiency and care.</p>
+        <p className="text-white text-base sm:text-lg max-w-xl mb-6">Delivering trusted brands with efficiency and care.</p>
+        <a
+          href="https://chirayumeds.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="buy-button-hero bg-yellow-400 text-blue-700 px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-500 transition-colors shadow-lg"
+        >
+          Buy Now
+        </a>
       </div>
 
     </section>
