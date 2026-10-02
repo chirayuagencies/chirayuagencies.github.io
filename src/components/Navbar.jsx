@@ -21,6 +21,7 @@ const Navbar = () => {
             <Link to="/coverage" onClick={() => setIsMenuOpen(false)}>Coverage</Link>
             <Link to="/contact" onClick={() => setIsMenuOpen(false)}>Contact</Link>
             <Link to="/verify" onClick={() => setIsMenuOpen(false)}>Verify</Link>
+            <Link to="/reconcile" onClick={() => setIsMenuOpen(false)}>Reconcile</Link>
             <a 
               href="https://chirayumeds.com" 
               target="_blank" 

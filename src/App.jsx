@@ -7,6 +7,7 @@ import Brands from './components/Brands';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import CartonVerifier from './components/CartonVerifier';
+import BankReconciliation from './components/BankReconciliation';
 import CoverageMap from './components/CoverageMap';
 
 
@@ -76,6 +77,9 @@ function App() {
 
         {/* Verify page */}
         <Route path="/verify" element={<CartonVerifier />} />
+
+        {/* Bank reconciliation page */}
+        <Route path="/reconcile" element={<BankReconciliation />} />
         
       </Routes>
     </Router>
